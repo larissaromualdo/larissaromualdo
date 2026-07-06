@@ -21,18 +21,13 @@ I have previous experience in the banking sector, where I developed analytical t
 
 ## Technologies
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Vite
-- Node.js
-- NestJS
-- TypeScript
-- MongoDB
-- Mongoose
-- Git
-- GitHub
+- HTML / CSS
+- JavaScript / TypeScript
+- React / Vite
+- Node.js / NestJS
+- MongoDB / Mongoose
+- Git / GitHub
+
 
 ## Connect with me
 
