@@ -32,11 +32,8 @@ I have previous experience in the banking sector, where I developed analytical t
 ## Connect with me
 
 [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissaromualdo)](https://github.com/larissaromualdo)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-romualdo-4693a1175/)](https://www.linkedin.com/in/larissa-romualdo-4693a1175/)
-
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:larissamaria.romualdo@yahoo.com.br)
-
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531992447671)
 
 
