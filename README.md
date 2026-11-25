@@ -2,7 +2,7 @@
 
 **Qualidade de Software (QA) e Testes | ISTQB CTFL | Estagiária de QA na ZTOTech**
 
-Atuo em QA na ZTOTech e busco uma oportunidade como **QA Júnior** para ampliar minha contribuição à qualidade das entregas. Uno a prática em testes, a formação em Desenvolvimento Full Stack e a experiência anterior no setor bancário para analisar aplicações com atenção aos detalhes e visão de negócio.
+Atuo em QA na ZTOTech e busco uma oportunidade como **QA** para ampliar minha contribuição à qualidade das entregas. Uno a prática em testes, a formação em Desenvolvimento Full Stack e a experiência anterior no setor bancário para analisar aplicações com atenção aos detalhes e visão de negócio.
 
 ## Experiência em qualidade
 
