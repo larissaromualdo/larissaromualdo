@@ -23,14 +23,10 @@ Setembro de 2026 — atual
 
 ## Base técnica
 
-| Área | Conhecimentos |
-| --- | --- |
-| Qualidade | Testes funcionais, regressão, casos de teste, documentação de bugs e retestes |
-| APIs | Testes básicos de API e compreensão de APIs REST |
-| Desenvolvimento web | HTML, CSS, JavaScript, TypeScript, React e Vite |
-| Backend e dados | Node.js, NestJS, MongoDB e Mongoose |
-| Versionamento | Git e GitHub |
-| Em desenvolvimento | Automação de testes e PostgreSQL em nível básico |
+- **Testes:** funcionais, regressão, casos de teste, documentação de bugs, retestes e testes básicos de API.
+- **Desenvolvimento:** JavaScript, TypeScript, React, Node.js e NestJS.
+- **Dados e versionamento:** MongoDB, Mongoose, Git e GitHub.
+- **Em aprendizado:** automação de testes e PostgreSQL, em nível básico.
 
 Minha base em desenvolvimento me ajuda a compreender a integração entre interfaces, APIs e dados e a colaborar na investigação de falhas.
 
