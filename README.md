@@ -28,16 +28,6 @@ Setembro de 2026 — atual
 - **Dados e versionamento:** MongoDB, Mongoose, Git e GitHub.
 - **Em aprendizado:** automação de testes e PostgreSQL, em nível básico.
 
-Minha base em desenvolvimento me ajuda a compreender a integração entre interfaces, APIs e dados e a colaborar na investigação de falhas.
-
-## Visão de negócio
-
-Minha experiência no setor bancário inclui análise de dados, gestão de carteira PJ, relacionamento com clientes e mitigação de riscos. Levo para QA a capacidade analítica, a organização e a comunicação desenvolvidas nessa trajetória.
-
-## Projetos de desenvolvimento
-
-- [Crewfare Backend](https://github.com/larissaromualdo/crewfare-backend) — backend do projeto Crewfare, em TypeScript.
-- [Costs React](https://github.com/larissaromualdo/costs-react) — projeto de estudo do curso de React de Matheus Battisti, do Hora de Codar.
 
 ## Vamos conversar?
 
