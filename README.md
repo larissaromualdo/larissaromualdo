@@ -31,6 +31,4 @@ Setembro de 2026 — atual
 
 ## Vamos conversar?
 
-Busco oportunidades de **QA Júnior, com atuação remota**.
-
 [LinkedIn](https://www.linkedin.com/in/larissa-romualdo-4693a1175/) · [E-mail](mailto:larissamaria.romualdo@yahoo.com.br) · [WhatsApp](https://wa.me/5531992447671)
