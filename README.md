@@ -1,41 +1,50 @@
-<img align="right" width="300" height="300"
-src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+# Olá, sou Larissa Romualdo
 
-# Welcome! 👋
+**Qualidade de Software (QA) e Testes | ISTQB CTFL | Estagiária de QA na ZTOTech**
 
-## I'm Larissa Romualdo
+Atuo em QA na ZTOTech e busco uma oportunidade como **QA Júnior** para ampliar minha contribuição à qualidade das entregas. Uno a prática em testes, a formação em Desenvolvimento Full Stack e a experiência anterior no setor bancário para analisar aplicações com atenção aos detalhes e visão de negócio.
 
-Fullstack Developer in progress | React, JavaScript, NestJS and MongoDB 🚀
+## Experiência em qualidade
 
-I’m currently studying Full Stack Development at PUC Minas and building practical projects to improve my skills in frontend, backend, APIs and databases.
+**ZTOTech · Estagiária de QA / Tester de Sistemas de TI**  
+Setembro de 2026 — atual
 
-I have previous experience in the banking sector, where I developed analytical thinking, organization, communication and problem-solving skills.
+- Execução de testes funcionais, de validação e de regressão.
+- Elaboração de casos de teste.
+- Identificação e documentação de bugs.
+- Retestes após correções.
+- Testes básicos de API.
+- Colaboração com o time de desenvolvimento em um contexto de metodologias ágeis.
 
-## About me
+## Certificação e formação
 
-- 💻 Focused on fullstack web development
-- 🌱 Currently learning and improving React, JavaScript, NestJS, TypeScript and MongoDB
-- 🛠️ Building projects with CRUD, REST APIs, forms, validation and file upload
-- 📚 Postgraduate student in Full Stack Development at PUC Minas
-- 🤝 Open to junior developer opportunities
+- **ISTQB Certified Tester Foundation Level (CTFL)** — emitida em novembro de 2026.
+- **Pós-graduação em Desenvolvimento Full Stack · PUC Minas** — em andamento.
 
-## Technologies
+## Base técnica
 
-- HTML / CSS
-- JavaScript / TypeScript
-- React / Vite
-- Node.js / NestJS
-- MongoDB / Mongoose
-- Git / GitHub
+| Área | Conhecimentos |
+| --- | --- |
+| Qualidade | Testes funcionais, regressão, casos de teste, documentação de bugs e retestes |
+| APIs | Testes básicos de API e compreensão de APIs REST |
+| Desenvolvimento web | HTML, CSS, JavaScript, TypeScript, React e Vite |
+| Backend e dados | Node.js, NestJS, MongoDB e Mongoose |
+| Versionamento | Git e GitHub |
+| Em desenvolvimento | Automação de testes e PostgreSQL em nível básico |
 
+Minha base em desenvolvimento me ajuda a compreender a integração entre interfaces, APIs e dados e a colaborar na investigação de falhas.
 
-## Connect with me
+## Visão de negócio
 
-[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissaromualdo)](https://github.com/larissaromualdo)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-romualdo-4693a1175/)](https://www.linkedin.com/in/larissa-romualdo-4693a1175/)
-[![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:larissamaria.romualdo@yahoo.com.br)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5531992447671)
+Minha experiência no setor bancário inclui análise de dados, gestão de carteira PJ, relacionamento com clientes e mitigação de riscos. Levo para QA a capacidade analítica, a organização e a comunicação desenvolvidas nessa trajetória.
 
+## Projetos de desenvolvimento
 
-- Thanks for visiting!
-- Enjoy it! ✨
+- [Crewfare Backend](https://github.com/larissaromualdo/crewfare-backend) — backend do projeto Crewfare, em TypeScript.
+- [Costs React](https://github.com/larissaromualdo/costs-react) — projeto de estudo do curso de React de Matheus Battisti, do Hora de Codar.
+
+## Vamos conversar?
+
+Busco oportunidades de **QA Júnior, com atuação remota**.
+
+[LinkedIn](https://www.linkedin.com/in/larissa-romualdo-4693a1175/) · [E-mail](mailto:larissamaria.romualdo@yahoo.com.br) · [WhatsApp](https://wa.me/5531992447671)
